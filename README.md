@@ -2,6 +2,8 @@
 
 **Physicist · Quantum algorithms · Scientific machine learning**
 
+[Personal website →](https://antonio-ferrer-sanchez.github.io/)
+
 I develop machine learning methods for problems in physics, with a focus on physics-informed neural networks and quantum dynamics.
 
 I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)** and a **PhD student at [Universitat de València](https://www.uv.es/)**, where I work with the Intelligent Data Analysis Laboratory (IDAL).
