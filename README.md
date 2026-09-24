@@ -20,7 +20,7 @@ I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)
 
 - **August 2026 · Preprint** — [Kerr Quasinormal Modes without Variable Separation: A Two-Dimensional Hyperboloidal Teukolsky Solver with Physics-Informed Neural Networks](https://arxiv.org/abs/2608.19774). Antonio Ferrer-Sánchez et al. *arXiv:2608.19774*.
 - **April 2026 · Preprint** — [Physics-Informed Neural Networks for Maximizing Quantum Fisher Information in Time-Dependent Many-Body Systems](https://arxiv.org/abs/2604.18506). Antonio Ferrer-Sánchez et al. *arXiv:2604.18506*.
-- **March 2026 · Journal article** — [Addressing the gravitational collapse of a massless scalar field with physics-informed neural networks](https://doi.org/10.1088/2632-2153/ae5459). Antonio Ferrer-Sánchez et al. *Machine Learning: Science and Technology*, **7**, 025038.
+- **March 2026 · Journal article** — [Addressing the gravitational collapse of a massless scalar field with physics-informed neural networks](https://doi.org/10.1088/2632-2153/ae5459). Antonio Ferrer-Sánchez et al. *Machine Learning: Science and Technology*, **7**, 025038. [Code](https://github.com/Netzuel/modpinn-gravitational-collapse).
 
 [More publications on Google Scholar →](https://scholar.google.com/citations?user=Ajj7DC4AAAAJ)
 
@@ -28,6 +28,7 @@ I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)
 
 | Project | What you will find |
 | --- | --- |
+| [ModPINN gravitational collapse](https://github.com/Netzuel/modpinn-gravitational-collapse) | Physics-informed neural networks for spherical scalar-field gravitational collapse: training code, pretrained models, reference data and Jupyter tutorials. [Accompanying paper](https://iopscience.iop.org/article/10.1088/2632-2153/ae5459). |
 | [GA-PINNs](https://github.com/Netzuel/GA_PINNs_Repository) | Gradient-annihilated physics-informed neural networks for relativistic Euler equations. |
 | [Adversarial Manuscript Review](https://github.com/Netzuel/adversarial-manuscript-review) | A bounded manuscript review and revision workflow using native agents in Codex and Claude Code. A research aid, not a substitute for scientific judgment or peer review. |
 
