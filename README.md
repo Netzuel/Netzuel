@@ -6,7 +6,7 @@
 
 I develop machine learning methods for problems in physics, with a focus on physics-informed neural networks and quantum dynamics.
 
-I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)** and a **PhD student at [Universitat de València](https://www.uv.es/)**, where I work with the Intelligent Data Analysis Laboratory (IDAL).
+I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)** and a **PhD student at [Universitat de València](https://www.uv.es/)**, where I work with the Intelligent Data Analysis Laboratory (IDAL). My predoctoral research there was supported by a **ValgrAI grant for predoctoral researchers** (2022–2024).
 
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/antonio-ferrer-s%C3%A1nchez-67a50b197/) [![ORCID](assets/orcid.svg)](https://orcid.org/0000-0002-2305-5261) [![Google Scholar](assets/scholar.svg)](https://scholar.google.com/citations?user=Ajj7DC4AAAAJ)
 
@@ -23,6 +23,10 @@ I am a **Quantum Algorithm Engineer at [Kipu Quantum](https://kipu-quantum.com/)
 - **March 2026 · Journal article** — [Addressing the gravitational collapse of a massless scalar field with physics-informed neural networks](https://doi.org/10.1088/2632-2153/ae5459). Antonio Ferrer-Sánchez et al. *Machine Learning: Science and Technology*, **7**, 025038. [Code](https://github.com/Netzuel/modpinn-gravitational-collapse).
 
 [More publications on Google Scholar →](https://scholar.google.com/citations?user=Ajj7DC4AAAAJ)
+
+## Recent talks
+
+- **April 2026 · Conference contribution** — *Maximizing quantum Fisher information with physics-informed neural networks*. International Quantum Matter Conference & Expo (QUANTUMatter 2026), Barcelona.
 
 ## Selected projects
 
